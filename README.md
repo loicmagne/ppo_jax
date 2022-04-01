@@ -1,3 +1,5 @@
 # ppo_jax [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vgEsrSZy1kdiZsRmkqtyAqliW61RtKAT?usp=sharing)
 
-<img src="https://user-images.githubusercontent.com/53355258/160956615-c3565c52-1e68-450b-bcef-10013e860824.gif" width="350" height="350"/> <img src="https://user-images.githubusercontent.com/53355258/160956194-649bb059-32f5-4f32-b9cf-e0162d2b6654.png" width="450" height="350"/>
+<img src="https://user-images.githubusercontent.com/53355258/161337706-16f21641-d24b-4d38-badb-c95ded50be95.gif" width="350" height="350"/> <img src="https://user-images.githubusercontent.com/53355258/161339022-a1e61cdf-f734-44ff-b92e-df21f6a6c43c.png" width="450" height="350"/>
+<img src="https://user-images.githubusercontent.com/53355258/160956615-c3565c52-1e68-450b-bcef-10013e860824.gif" width="350" height="350"/> <img src="https://user-images.githubusercontent.com/53355258/161337919-58a16d7b-52fe-4081-8461-563e1374a1c0.png" width="450" height="350"/>
+<img src="https://user-images.githubusercontent.com/53355258/161337724-f139b7df-f26f-4f6b-80bc-6b68cd1454a5.gif" width="350" height="350"/> <img src="https://user-images.githubusercontent.com/53355258/161338336-1916304e-d772-414c-91b5-95537775b50f.png" width="450" height="350"/>
